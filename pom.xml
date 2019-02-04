@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mysema.codegen</groupId>
     <artifactId>codegen</artifactId>
-    <version>0.6.9.BUILD-SNAPSHOT</version>
+    <version>0.6.9.ls-build.1</version>
     <name>Codegen</name>
     <description>Code generation and compilation for Java</description>
 
